@@ -1,1 +1,0 @@
-# 9.-Palindrome-Number
