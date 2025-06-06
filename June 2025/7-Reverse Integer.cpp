@@ -1,4 +1,4 @@
-// Time Complexity is O(log(x))
+// Time Complexity is O(log(x)).
  
 class Solution {
     public:
