@@ -6,7 +6,8 @@ class Solution {
             
             int temp=n;
             int mask=0;
-    
+            
+            // remember this edge case
             if(temp ==0){
                 return 1;
             }
