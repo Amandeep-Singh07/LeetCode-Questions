@@ -1,3 +1,6 @@
+// Time complexity is O(n);
+// Space Complexity is O(1).
+
 class Solution {
     public:
         int removeDuplicates(vector<int>& nums) {
