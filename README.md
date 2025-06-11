@@ -1,25 +1,63 @@
-This repository is the daily coding journal of a developer committed to solving at least one LeetCode problem every day using C++. Tackling a fresh challenge each day helps maintain consistency and gradually builds stronger algorithm and DSA skills
+# 🧠 LeetCode Daily Problem Solving – C++ Journal
 
-All solutions are written in modern C++, and each problem’s code is accompanied by a brief note on the approach and complexity. Over time, this steady practice transforms small daily steps into long-term growth in problem-solving expertise.
+Welcome to the **Daily Coding Journal** of a developer dedicated to solving **at least one LeetCode problem every day** using **modern C++**.
 
+This consistent habit strengthens data structures and algorithm (DSA) skills over time, with every problem adding to a growing foundation of coding confidence and fluency.
 
-Key Highlights
+---
 
-🎯 Daily Commitment: Solve at least one LeetCode problem per day, reinforcing a steady coding habit and continuous improvement
+## 🔍 About This Repository
 
+Each solution is:
 
-💻 C++ Focus: All solutions are implemented in modern C++ (e.g. C++17/20), sharpening language fluency and leveraging efficient coding techniques.
-📘 Solution Notes: Each problem comes with concise comments or a short write-up explaining the approach and time complexity
-, deepening understanding of the underlying algorithms.
+- ✅ **Solved Daily** – Building a regular problem-solving routine.
+- 💻 **Written in C++ (C++17/20)** – Leveraging modern language features for clarity and performance.
+- 🧾 **Documented with Notes** – Includes brief write-ups or comments describing the **approach** and **time complexity**.
 
+> “Small daily improvements are the key to staggering long-term results.”
 
-🚀 Growth Over Time: By keeping a consistent pace and reflecting on each solution, the long-term goal is clear improvement in data structures & algorithms mastery
+---
 
+## ✨ Key Highlights
 
-This project embodies the philosophy that consistent, daily practice leads to mastery. Over weeks and months of steady effort, the LeetCode-Questions repo becomes a testament to continuous learning and algorithmic skill development
+### 🎯 Daily Commitment  
+Solve at least one LeetCode problem **every day**, reinforcing steady practice and gradual progress.
 
+### 💻 C++ Focus  
+All problems are implemented in **modern C++**, improving language fluency and showcasing efficient coding techniques.
 
-References: The value of daily problem-solving is echoed in other coding challenge repositories that track one-new-problem-a-day to “strengthen problem-solving skills and build a robust understanding of algorithms and data structures”
-Similarly, initiatives like 100DaysOfCode emphasize a “commitment to daily coding practice and growth” as a foundation for skill building
-This repo follows those proven approaches, with a C++ focus and clear documentation of each solution
+### 📘 Solution Notes  
+Each submission includes:
+- Clear **comments**
+- Short notes on the **approach**
+- Estimated **time & space complexity**
 
+### 🚀 Growth Over Time  
+Consistency compounds – this repository reflects **long-term improvement** in algorithmic thinking and DSA mastery.
+
+---
+
+## 💡 Philosophy
+
+> _“Consistent, daily practice leads to mastery.”_
+
+This project is inspired by well-known coding movements:
+
+- `#100DaysOfCode`
+- One-problem-a-day LeetCode streaks
+- Daily DSA grind culture among developers and students
+
+The focus is **consistency**, **clarity**, and **continuous learning**.
+
+---
+
+## 📚 References & Influence
+
+- Inspired by daily problem-solving initiatives on GitHub
+- Echoes the spirit of `#100DaysOfCode`
+- Shares the mindset of “learning in public” and tracking visible progress
+
+---
+
+Thanks for checking out the repository!  
+Feel free to ⭐️ **star**, 🛠 **contribute**, or just browse the solutions. Let’s grow together 🚀
