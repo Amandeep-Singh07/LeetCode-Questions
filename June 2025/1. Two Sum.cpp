@@ -8,6 +8,16 @@
 
 // mp[nums[i]] = i; → Insertion into the map also takes O(log n).
 
+// Step 3 – Total
+
+// Each loop iteration = O(log n) (dominated by map operations).
+
+// Loop runs n times.
+
+// So overall:
+
+// Time Complexity = O(n log n)
+
 class Solution {
     public:
         vector<int> twoSum(vector<int>& nums, int target) {
