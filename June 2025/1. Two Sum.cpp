@@ -1,4 +1,12 @@
-// Since my code uses map<int,int>, the time complexity is O(n log n). If i want O(n) time,i have to use unordered_map<int,int> instead.
+// int remaining = target - nums[i]; → O(1) (simple arithmetic).
+
+// mp.find(remaining) → This is the important one.
+
+// Since mp is a balanced binary search tree (std::map in C++),
+
+// Lookup (find) takes O(log n) time in the worst case.
+
+// mp[nums[i]] = i; → Insertion into the map also takes O(log n).
 
 class Solution {
     public:
