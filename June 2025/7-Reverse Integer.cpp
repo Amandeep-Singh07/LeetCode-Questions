@@ -25,3 +25,24 @@ class Solution {
           return rev;
         }
     };
+
+
+// **************  ANOTHER WAY ***************
+//     class Solution {
+// public:
+//     int reverse(int x) {
+//         long long rev = 0;   // use long long instead of int
+//         while (x != 0) {
+//             int d = x % 10;      // extract digit
+//             rev = rev * 10 + d;  // build reversed number
+//             x /= 10;
+//         }
+//         // Check if result fits in 32-bit signed int
+//         if (rev < INT_MIN || rev > INT_MAX) return 0;
+//         return (int)rev;
+//     }
+// };
+// Pros of using long long
+// Cleaner code: no need to check overflow at every step.
+
+// Easier to understand: just reverse normally, then check once.
