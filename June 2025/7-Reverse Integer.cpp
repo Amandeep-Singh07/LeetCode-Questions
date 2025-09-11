@@ -27,7 +27,7 @@ class Solution {
     };
 
 
-// *********  ANOTHER WAY ********
+// *********  ANOTHER WAY *********
 //     class Solution {
 // public:
 //     int reverse(int x) {
